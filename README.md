@@ -47,28 +47,29 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/JavaScript.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/MySQL-Dark.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Python-Dark.svg" alt="Python" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/PHP-Dark.svg" alt="PHP" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/NodeJS-Dark.svg" alt="NodeJS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/React-Dark.svg" alt="React" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Redux.svg" alt="Redux" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Docker.svg" alt="Docker" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Git.svg" alt="Git" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/HTML.svg" alt="HTML" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/CSS.svg" alt="CSS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/TailwindCSS-Dark.svg" alt="TailwindCSS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/c--3.svg" alt="c#" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Firebase-Dark.svg" alt="Firebase" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/AWS-Dark.svg" alt="AWS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/Codeigniter.svg" alt="Codeigniter" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/TypeScript.svg" alt="TypeScript" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50"/>
 </p>
 
 ---

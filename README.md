@@ -38,7 +38,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/udaya-saman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udaya-saman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/udaya-saman" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/udaya-saman/skill-icons/a9bbe2d67cc3f23d03c1516bd2e72f2391f6a9c8/icons/LinkedIn.svg)" alt="udaya-saman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/udayasaman_uom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="udayasaman_uom" height="30" width="40" /></a>
 </p>
 

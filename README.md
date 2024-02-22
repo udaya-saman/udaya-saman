@@ -9,8 +9,6 @@
 
 - 👨‍🎓 I graduated from the **University of Moratuwa** with a **BSc. (Hons.) in Information Technology and Management**
 
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **udayasaman.uom@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/172EXa6Ees7y2Fv6TOsglnJtXCJla2Aex/view?usp=sharing](https://rb.gy/1nssqq)**

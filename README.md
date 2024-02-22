@@ -66,7 +66,7 @@
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/c--3.svg" alt="c#" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJS" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Codeigniter.svg" alt="Codeigniter" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="TensorFlow" width="50" height="50"/>

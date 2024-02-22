@@ -6,8 +6,6 @@
 <table align="center">
 <tr border="none">
 <td width="100%" align="left">
-  
-- 🌱 I’m currently learning **MERN**
 
 - 👨‍🎓 I graduated from the **University of Moratuwa** with a **BSc. (Hons.) in Information Technology and Management**
 

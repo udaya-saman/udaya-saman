@@ -38,8 +38,16 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/udaya-saman" target="blank"><img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/></a>
-<a href="https://www.hackerrank.com/udayasaman_uom" target="blank"><img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/hackerrank.svg" alt="udayasaman_uom" height="50" width="50" /></a>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+    <a href="https://linkedin.com/in/udaya-saman" target="blank"><img src="https://github.com/udaya-saman/skill-icons/blob/main/LinkedIn.svg" alt="LinkedIn" width="50" height="50"/></a>
+</td>
+<td width="50%" align="center">
+    <a href="https://www.hackerrank.com/udayasaman_uom" target="blank"><img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/hackerrank.svg" alt="udayasaman_uom" height="50" width="50" /></a>
+</td>
+</tr>
+</table>
 </p>
 
 ---

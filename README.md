@@ -46,7 +46,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<table align="center">
+<table align="center" body="overflow:hidden">
 <tr border="none">
 <td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>

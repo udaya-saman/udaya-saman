@@ -46,7 +46,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<table align="center" body="overflow:hidden">
+<table align="center">
 <tr border="none">
 <td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
@@ -86,22 +86,48 @@
 </td>
 <td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>
-</td>
-    
+</td> 
 </tr>
+</table>
+<table align="center">
 <tr border="none">
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="TailwindCSS" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/c--3.svg" alt="c#" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Firebase-Light.svg" alt="Firebase" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Codeigniter.svg" alt="Codeigniter" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" width="40" height="40"/>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+         <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="TailwindCSS" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/c--3.svg" alt="c#" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Firebase-Light.svg" alt="Firebase" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Codeigniter.svg" alt="Codeigniter" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
+    </td>
+    <td width="7.5%" align="center">
+        <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" width="40" height="40"/>
+    </td>  
+    
 </tr>
 </table>
 </p>

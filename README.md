@@ -17,7 +17,7 @@
 </tr>
 </table>
 
---
+---
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -34,7 +34,7 @@
 </tr>
 </table>
 
---
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

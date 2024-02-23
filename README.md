@@ -51,18 +51,43 @@
 <td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
 </td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="NodeJS" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Redux.svg" alt="Redux" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+</td>
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>
+</td>
+    
 </tr>
 <tr border="none">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>

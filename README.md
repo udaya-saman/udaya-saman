@@ -46,7 +46,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+<table align="center">
+<tr border="none">
+<td width="7.5%" align="center">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/>
+</td>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/>
@@ -59,6 +63,8 @@
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="40" height="40"/>
+</tr>
+<tr border="none">
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/>
@@ -71,4 +77,6 @@
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Codeigniter.svg" alt="Codeigniter" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/TensorFlow-Light.svg" alt="TensorFlow" width="40" height="40"/>
+</tr>
+</table>
 </p>

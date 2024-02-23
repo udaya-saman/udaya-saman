@@ -46,7 +46,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/>
+    <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="35" height="35"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/spring.svg" alt="Spring" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/>
     <img src="https://github.com/udaya-saman/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/>

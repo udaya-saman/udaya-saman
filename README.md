@@ -33,7 +33,7 @@
 </tr>
 </table>
 
----
+<br />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,7 +49,7 @@
 </table>
 </p>
 
----
+<br />
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">

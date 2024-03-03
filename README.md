@@ -7,11 +7,11 @@
 <tr border="none">
 <td width="100%" align="left">
 
-- 👨‍🎓 I graduated from the **University of Moratuwa** with a **BSc. (Hons.) in Information Technology and Management**
+- 👨‍🎓    I graduated from the **University of Moratuwa** with a **BSc. (Hons.) in Information Technology and Management**
 
-- 📫 How to reach me **udayasaman.uom@gmail.com**
+- 📫    How to reach me **udayasaman.uom@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/172EXa6Ees7y2Fv6TOsglnJtXCJla2Aex/view?usp=sharing](https://rb.gy/1nssqq)**
+- 📄    Know about my experiences **[https://drive.google.com/file/d/172EXa6Ees7y2Fv6TOsglnJtXCJla2Aex/view?usp=sharing](https://rb.gy/1nssqq)**
 
 </td>
 </tr>

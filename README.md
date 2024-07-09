@@ -25,16 +25,12 @@
 <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=udaya-saman&theme=dark&show_icons=true&count_private=true" />
 </td>
-<td width="50%" align="center">
-
-  
-  
-  </td>
+    <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=udaya-saman&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
 </tr>
 </table>
-
 <br />
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <table align="center">

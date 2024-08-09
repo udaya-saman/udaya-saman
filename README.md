@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 55px></p>
 <h2 align="center">Hi, I'm <b>Udaya Saman</b></h2>
-<h3 align="center">Software Engineer | Back-end Developer| Freelancer | Java | Spring Boot 💻</h3>
+<h3 align="center">Full-Stack Developer | Java | JavaScript | React | Node.js | Passionate Coder 💻</h3>
 <br />
 
 <table align="center">

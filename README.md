@@ -11,7 +11,7 @@
 
 - 📫    How to reach me **udayasaman.uom@gmail.com**
 
-- 📄    My Resume : **[https://drive.google.com/file/d/1xBqAK1QDNdHNiDhfXu9jqLcNrJYnwfVX/view?usp=sharing]**
+- 📄    My Resume : **[https://drive.google.com/file/d/1UpK3QpMv_lHGaQX96LKHelLqqNgAt1PU/view?usp=drive_link]**
 
 </td>
 </tr>

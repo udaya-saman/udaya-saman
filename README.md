@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 55px></p>
 <h2 align="center">Hi, I'm <b>Udaya Saman</b></h2>
-<h3 align="center">Full-Stack Developer | Java | JavaScript | React | Node.js | Passionate Coder 💻</h3>
+<h3 align="center">Java | JavaScript | React | PHP | Passionate Coder 💻</h3>
 <br />
 
 <table align="center">
@@ -11,7 +11,7 @@
 
 - 📫    How to reach me **udayasaman.uom@gmail.com**
 
-- 📄    My Resume : **[https://drive.google.com/file/d/1-i92w3gThoqkgJQMoE4oSTsiCZ-vTWx8/view?usp=drive_link]**
+- 📄    My Resume : **https://drive.google.com/file/d/1UfKvyJ2lZqmOwkw4sKKiW8ViFgQys2Y_/view?usp=drive_link**
 
 </td>
 </tr>

@@ -9,9 +9,9 @@
 
 - 👨‍🎓    I graduated from the **University of Moratuwa** with a **BSc. (Hons.) in Information Technology and Management**
 
-- 📫    How to reach me **udayasaman.uom@gmail.com**
+- 📫    Email: **udayasaman.uom@gmail.com**
 
-- 📄    My Resume : **https://drive.google.com/file/d/1UfKvyJ2lZqmOwkw4sKKiW8ViFgQys2Y_/view?usp=drive_link**
+- 📄    My Resume: **https://drive.google.com/file/d/1UfKvyJ2lZqmOwkw4sKKiW8ViFgQys2Y_/view?usp=drive_link**
 
 </td>
 </tr>

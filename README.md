@@ -11,7 +11,7 @@
 
 - 📫    Email: **udayasaman.uom@gmail.com**
 
-- 📄    My Resume: **https://drive.google.com/file/d/1UfKvyJ2lZqmOwkw4sKKiW8ViFgQys2Y_/view?usp=drive_link**
+- 📄    My Resume: **https://drive.google.com/file/d/1B8mxntd0WjidawPRRTAW8DWwwCDnwlsh/view**
 
 </td>
 </tr>
